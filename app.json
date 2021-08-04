@@ -1,9 +1,9 @@
 {
-  "name": "UNTFEDBOT",
-  "description": "A Powerful FEDERATION ACTIONS BOT",
-  "logo": "https://telegra.ph/file/297476c0d91e6db025540.jpg",
+  "name": "MASTER",
+  "description": "A MASTER FOR YOUR GROUP ",
+  "logo": "https://telegra.ph/file/da3fa087a3e182d58e3d8.jpg",
   "keywords": ["telegram-bot"],
-  "repository": "https://github.com/maskedcoder7/unt",
+  "repository": "https://github.com/maskedcoder7/MASTER",
   "env": {
     "TL_APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
