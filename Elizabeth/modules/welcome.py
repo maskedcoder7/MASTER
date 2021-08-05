@@ -189,7 +189,7 @@ def new_member(update, context):
             # Give the owner a special welcome
             if new_mem.id == OWNER_ID:
                 update.effective_message.reply_text(
-                    "My Owner is in the houseeee, let's get this party started!",
+                    "parv is in the houseeee, get ready for show!",
                     reply_to_message_id=reply,
                 )
                 continue
@@ -213,7 +213,7 @@ def new_member(update, context):
 
                 context.bot.send_message(
                     MESSAGE_DUMP,
-                    "Elizabeth have been added to <pre>{}</pre> with ID: \n<pre>{}</pre>".format(
+                    "MASTER have been added to <pre>{}</pre> with ID: \n<pre>{}</pre>".format(
                         chat.title,
                         chat.id),
                     parse_mode=ParseMode.HTML,
